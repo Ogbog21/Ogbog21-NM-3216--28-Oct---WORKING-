@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: b99ccb40c9af24cf9be3d77fe8dcd0a6
+timeCreated: 1476861419
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bird_sprites_normal_0
+    21300002: bird_sprites_normal_1
+    21300004: bird_sprites_normal_2
+    21300006: bird_sprites_normal_3
+    21300008: bird_sprites_normal_4
+    21300010: bird_sprites_normal_5
+    21300012: bird_sprites_normal_6
+    21300014: bird_sprites_normal_7
+    21300016: bird_sprites_normal_8
+    21300018: bird_sprites_normal_9
+    21300020: bird_sprites_normal_10
+    21300022: bird_sprites_normal_11
+    21300024: bird_sprites_normal_12
+    21300026: bird_sprites_normal_13
+    21300028: bird_sprites_normal_14
+    21300030: bird_sprites_normal_15
+    21300032: bird_sprites_normal_16
+    21300034: bird_sprites_normal_17
+    21300036: bird_sprites_normal_18
+    21300038: bird_sprites_normal_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bird_sprites_normal_0
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 482
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_1
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 482
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 286
+        width: 199
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 275
+        width: 200
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_4
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 271
+        width: 200
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_5
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 271
+        width: 200
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_6
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 271
+        width: 199
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_7
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 440
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 435
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_9
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 232
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 42
+        width: 199
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_11
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 220
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_12
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 208
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 197
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 21
+        width: 200
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_15
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 21
+        width: 200
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_16
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 18
+        width: 200
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_17
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 197
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_18
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 21
+        width: 200
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird_sprites_normal_19
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 174
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: Enemies
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

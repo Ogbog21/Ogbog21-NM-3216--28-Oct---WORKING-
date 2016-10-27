@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: bdd785ae046cf409992eb4019c67dd98
+timeCreated: 1477561081
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wolf_spritesheet_grey_0
+    21300002: Grey_Walk_4
+    21300004: Grey_Walk_2
+    21300006: Grey_Walk_5
+    21300008: wolf_spritesheet_grey_4
+    21300010: Grey_Walk_3
+    21300012: wolf_spritesheet_grey_6
+    21300014: Grey_Walk_6
+    21300016: wolf_spritesheet_grey_8
+    21300018: Grey_Pounce_1
+    21300020: Grey_Pounce_4
+    21300022: Grey_Pounce_7
+    21300024: Grey_Pounce_2
+    21300026: Grey_Pounce_5
+    21300028: Grey_Pounce_8
+    21300030: Grey_Pounce_3
+    21300032: Grey_Pounce_6
+    21300034: Grey_Walk_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wolf_spritesheet_grey_0
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 3658
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 3655
+        width: 1150
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2955
+        width: 1152
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2938
+        width: 1150
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wolf_spritesheet_grey_4
+      rect:
+        serializedVersion: 2
+        x: 3667
+        y: 3073
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2245
+        width: 1152
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wolf_spritesheet_grey_6
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2361
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 2210
+        width: 1152
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wolf_spritesheet_grey_8
+      rect:
+        serializedVersion: 2
+        x: 3622
+        y: 2303
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Pounce_1
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1654
+        width: 1104
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Pounce_4
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1494
+        width: 1118
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Pounce_7
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 1628
+        width: 1118
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Pounce_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1013
+        width: 1118
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Pounce_5
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 879
+        width: 1118
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Pounce_8
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 929
+        width: 1118
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Pounce_3
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 302
+        width: 1128
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Pounce_6
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 254
+        width: 1118
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grey_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 3666
+        width: 1150
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: Wolf_Grey
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
